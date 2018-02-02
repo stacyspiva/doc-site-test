@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to DocSite Test
 
 You can use the [editor on GitHub](https://github.com/stacyspiva/doc-site-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
